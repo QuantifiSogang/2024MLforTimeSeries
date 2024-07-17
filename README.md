@@ -17,26 +17,25 @@ Junior Session 및 기타 강의에서 다루지 못한 내용을 집중적으�
 - 국소회귀법을 이용한 평활화
 - Fourier Transformation을 활용한 평활화와 신호 추출
 
-#### 3. Sampling 
+#### 3. Risk
+
+- ARCH를 비롯, 그에 파생된 모형들에 대한 이해와 활용
+
+#### 4. Sampling 
 
 - 표본추출법에 대한 이해
 - 거래량 기반, 거래대금 기반, 엔트로피 기반 표본추출법에 대한 이해
 
-#### 4. Monte Carlo Simulation
+#### 5. Monte Carlo Simulation
 
 - Geometric Brownian Motion, Ornstein Uhlenbeck Process 등 확률과정에 대한 이해
 - 적대적 신경망(GAN)을 이용한 시계열 복제와 전략 백테스팅
 - 합성 데이터를 활용한 데이터 생성과 백테스팅
 - 백테스팅 초과대적합(Backtesting Hyperfitting)에 대한 이해와 통계량
 
-#### 5. Machine Learning Allocation
+#### 6. Machine Learning Allocation
 
 - 현대 포트폴리오 이론을 극복하기 위한 다양한 자산배분 모형에 대한 이해와 활용
-
-#### 6. Meta Modeling
-
-- 전략 레이블링과 feature engineering
-- 2 step Machine Learning model 및 causal machine learning에 대한 이해와 활용
 
 ### 선수과정
 
